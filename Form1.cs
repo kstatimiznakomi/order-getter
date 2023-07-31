@@ -12,7 +12,7 @@ namespace order_getter_csharp
             "Database=diplom2;" +
             "User=root;" +
             "Port=3306;" +
-            "Password=SHreder9955";
+            "Password=1111";
         int deliveryPointId = 1;
 
         public Form1(){
