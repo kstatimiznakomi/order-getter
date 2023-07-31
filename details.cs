@@ -19,7 +19,7 @@ namespace order_getter_csharp
             "Database=diplom2;" +
             "User=root;" +
             "Port=3306;" +
-            "Password=SHreder9955";
+            "Password=1111";
         public int Value {
             get; set;
         }
